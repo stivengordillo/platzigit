@@ -3,6 +3,28 @@ h1{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
 }
+nav{
+    background:chocolate;
+}
+nav ul{
+    list-style:  none;
+    display:flex;
+    justify-content: center;;
+}
+nav ul li{
+    padding:10px;
+    color:white;
+    cursor:pointer;
+}
+nav ul li:hover{
+    background:coral;
+}
+img{
+    display:block;
+    max-width:250px;
+    border-radius:50%;
+    margin:0 auto;
+}
 p{
     display:block;
     margin:0 auto;
