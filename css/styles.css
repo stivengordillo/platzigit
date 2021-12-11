@@ -8,3 +8,11 @@ p{
     margin:0 auto;
     width:80%;
 }
+footer{
+    background:black;
+    color:white;
+    padding:20px;
+    text-align: center;
+    margin-top:20px;
+    font-size:12px;
+}
