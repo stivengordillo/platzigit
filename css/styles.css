@@ -32,10 +32,13 @@ p{
     width:80%;
 }
 footer{
-    background:peru;
+    background:blue;
     color:white;
     padding:20px;
     text-align: center;
     margin-top:20px;
     font-size:12px;
+}
+footer img{
+    border-radius:0px;
 }
